@@ -1,0 +1,14 @@
+# Node.js
+food-explorer-backend/node_modules
+
+
+# Dependency directories
+food-explorer-backend/package-lock.json
+
+#front
+# Dependências
+food-explorer-front/node_modules
+
+# Cache de dependências
+food-explorer-front/package-lock.json
+
